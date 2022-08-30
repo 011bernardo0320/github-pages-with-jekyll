@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "GitHub Host"
 ---
 
-I'm glad you are here. I plan to talk about ...
+O que faz um site ser estático...
+Estatisticamnete 
+A Estética 
+É distópica
+
